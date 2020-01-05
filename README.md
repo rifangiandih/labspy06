@@ -6,23 +6,23 @@ Package dan Module
 
 2.daftar_nilai.py berisi modul untuk
 
-  tambah_data
+    tambah_data
   
-  ubah data
+    ubah data
  
- hapus data
+    hapus data
   
-  cari data
+    cari data
   
 3.view_nilai.py berisi modul untuk
 
-  cetak daftar nilai
+    cetak daftar nilai
   
-  cetak hasil pencarian
+    cetak hasil pencarian
   
 4.input_nilai.py berisi modul untuk meminta user menginputkan data
 
-Berikut hasil running dari program :
+   Berikut hasil running dari program :
 1. tambah data (add)
 
 ![](screenshot1.jpg)
